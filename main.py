@@ -1,0 +1,1 @@
+exec(open("./Core/Core.py").read())
